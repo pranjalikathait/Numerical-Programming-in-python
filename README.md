@@ -10,7 +10,9 @@ Explore and analyse the data to identify key elements that influence bookings.
 ### **Main Libraries to be used:**
 
 Pandas for data manipulation, aggregation
+
 Matplotlib and Seaborn for visualisation and behaviour with respect to the target variable
+
 NumPy for computationally efficient operations
 
 ### **Project Architecture:**
